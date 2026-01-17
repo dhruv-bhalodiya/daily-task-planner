@@ -90,7 +90,5 @@ Uses minimal colors, readable fonts, and smooth animations.
 | LocalStorage Integration               | 24 Jan 2026     |
 | Task Completion & Delete Features      | 25 Jan 2026     |
 | Daily Reset Logic                      | 27 Jan 2026     |
-| Responsive Design Improvements         | 28 Jan 2026     |
-| Testing & Bug Fixing                   | 29 Jan 2026     |
-| Final Review & Project Submission      | 30 Jan 2026     |
+| Buffer (Testing, Fixes, Review)        | 28–30 Jan 2026  |
 ---
